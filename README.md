@@ -1,5 +1,6 @@
 # CrosswordGenerator
 === Not finished yet ===
+
 Generates a crossword puzzle image using random clues from wikipedia and a randomly generated board.
 
 # Required libraries
